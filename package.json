@@ -1,0 +1,18 @@
+{
+  "name": "atlantec-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "http-server": "./node_modules/.bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atlantec"
+  ],
+  "author": "Colm Seale",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
