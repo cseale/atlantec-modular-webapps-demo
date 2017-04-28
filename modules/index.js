@@ -1,1 +1,2 @@
-import './name/name'
+import './name'
+import './panel'
