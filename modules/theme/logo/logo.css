@@ -1,0 +1,10 @@
+.logo {
+  margin-right: 30px;
+  float:left;
+}
+@media (max-width: 767px) {
+.logo {
+    float: none !important;
+    margin: 0 auto;
+  }
+}
